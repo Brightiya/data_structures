@@ -1,6 +1,6 @@
-// Testing drive here!
+// Test drive here!
 
-function my_day(){
-    console.log("my name is Bright Iyahen")
+function my_name(){
+    console.log("My name is Bright Iyahen")
 }
-my_day()
+my_name()
