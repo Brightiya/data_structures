@@ -2,6 +2,6 @@
 
 function my_name(){
     console.log("My name is Bright Iyahen.")
-    console.log("I'm a computer scientist. I am curious to make it.")
+    console.log("I'm a computer scientist. I am curious to make it all.")
 }
 my_name()
